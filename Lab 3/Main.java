@@ -1,5 +1,3 @@
-// package inst.nitjsr.hospitals.dblayer;
-
 import inst.nitjsr.hospitals.dblayer.*;
 
 public class Main {

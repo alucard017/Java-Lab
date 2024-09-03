@@ -1,6 +1,10 @@
 package inst.nitjsr.hospitals.dblayer;
 
-public class Staff implements DBEntity {
+//interface implements
+// public class Staff implements DBEntity {
+
+//abstract class extends
+public class Staff extends DBEntity {
     int id;
     String name;
     String designation;
